@@ -1,6 +1,6 @@
 # Тестовое задание Ruby Backend-разработчика
 
-## Для команды web-разработки [Proektmarketing+1](https://proektmarketing.ru/)
+Для команды web-разработки [Proektmarketing+1](https://proektmarketing.ru/)
 
 
 ## Условие задачи
